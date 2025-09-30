@@ -16,3 +16,4 @@ Il utilise le fichier `sitemap.xml` pour récupérer efficacement la liste des *
 Le script évite les requêtes massives en parallèle et applique un **délai entre chaque requête** pour ne pas surcharger le serveur.
 
 ---
+<img width="802" height="447" alt="image" src="https://github.com/user-attachments/assets/698e262d-0e7d-4be3-9def-841dde8ceec5" />
